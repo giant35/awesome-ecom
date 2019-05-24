@@ -8,12 +8,17 @@
 
 
 ## 开源代码
-* ShopEx ?   
+* ShopEx 
+* https://www.reactioncommerce.com/index
+* https://github.com/Sylius/Sylius
 * https://github.com/linlinjava/litemall  
 * https://github.com/macrozheng/mall  
 * https://github.com/EastWorld/wechat-app-mall  
 
 
+## 视频/图片存储
+* 各云平台提供的对象存储
+* https://www.qiniu.com 对象存储
 
 ## 物流查询平台
 * 菜鸟裹裹（有接口吗？）  
