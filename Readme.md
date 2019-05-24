@@ -21,6 +21,12 @@
 * http://www.kdniao.com/api-track  
 
 
+## 短信通道
+* 阿里云
+* 腾讯云
+* https://luosimao.com
+* 中国移动 https://open.10086.cn/capability/4?WT.ac=API1
+
 
 ## 云平台
 * 阿里云
@@ -29,8 +35,6 @@
 * 腾讯云
 * 华为云
 * 百度云
-
-
 
 
 
