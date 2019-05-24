@@ -23,17 +23,17 @@
 
 
 ## 云平台
-阿里云
-AWS 
-Azure
-腾讯云
-华为云
-百度云
+* 阿里云
+* AWS 
+* Azure
+* 腾讯云
+* 华为云
+* 百度云
 
 
 
 
 
 ## Java主流框架
-Spring 
-Vert.x
+* Spring 
+* Vert.x
