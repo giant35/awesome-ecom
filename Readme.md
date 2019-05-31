@@ -13,6 +13,7 @@
 * https://github.com/Sylius/Sylius
 * https://github.com/linlinjava/litemall  
 * https://github.com/macrozheng/mall  
+* https://github.com/Exrick/xmall  
 * https://github.com/EastWorld/wechat-app-mall  
 
 
