@@ -1,9 +1,9 @@
 # 电商相关参考
 
 ## 不错的CRM
-Microsoft DynamicCRM
-Saleforce
-SugarCRM ? 
+* Microsoft DynamicCRM
+* Saleforce
+* SugarCRM ? 
 
 ## 开放平台
 * https://open.taobao.com
