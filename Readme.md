@@ -52,3 +52,5 @@
 ## Java主流框架
 * Spring 
 * Vert.x
+* MicroProfile
+* JavaEE （已死）
