@@ -26,7 +26,8 @@
 * https://www.qiniu.com 对象存储
 
 ## 物流查询平台
-* 菜鸟裹裹（有接口吗？）  
+* [微信物流助手接口](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/express/introduction.html)
+* [菜鸟](https://www.cainiao.com/markets/cnwww/cnwaybill)
 * https://www.kuaidi100.com  
 * http://www.kdniao.com/api-track  
 
