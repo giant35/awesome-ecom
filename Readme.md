@@ -14,14 +14,14 @@
 
 ## 成熟的电商系统
 
-ECShop
-有赞
-ShopEx
-HiShop
-https://www.odoo.com
-Magento
-osCommerce
-OpenCart
+- ECShop
+- 有赞
+- ShopEx
+- HiShop
+- https://www.odoo.com
+- Magento
+- osCommerce
+- OpenCart
 
 ## 开源代码
 
